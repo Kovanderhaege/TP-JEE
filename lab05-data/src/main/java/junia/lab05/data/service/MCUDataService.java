@@ -67,7 +67,7 @@ public class MCUDataService {
         Map<String, Phase> phases = new HashMap<>();
         phases.put("phase1", createPhase("Phase I",sagas.get("infinity")));
         phases.put("phase2", createPhase("Phase II",sagas.get("infinity")));
-        phases.put("phase3", createPhase("Phase II",sagas.get("infinity")));
+        phases.put("phase3", createPhase("Phase III",sagas.get("infinity")));
         phases.put("phase4", createPhase("Phase IV",sagas.get("multiverse")));
         phases.put("phase5", createPhase("Phase V",sagas.get("multiverse")));
         phases.put("phase6", createPhase("Phase VI",sagas.get("multiverse")));
