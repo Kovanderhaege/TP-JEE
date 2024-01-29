@@ -2,8 +2,10 @@
 
 ## Group
 This group is composed of 2 great minds known as :
-* Adrien Mareel (PHP beast, King of JEE)
-* Hugo Vanderhaegen (C# expert)
+* Adrien Mareel (King of JEE, many say he did not commit much, but his colleague do know he was the motor of this group) 
+* Hugo Vanderhaegen (C# expert, as a newbie, he had to listen carefully to his colleague's instructions)
+  
+(Hugo did most of the commits because Adrien already did some JEE before and spent his whole time explaining)
   
 ## Intro
 Several goals for this homework:
