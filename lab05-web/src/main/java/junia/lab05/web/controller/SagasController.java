@@ -22,7 +22,7 @@ public class SagasController {
     @GetMapping("/list")
     public String getListOfSagas(ModelMap modelMap){
        List<Saga> sagas = sagaService.findAllWithPhasesAndMovies();
-       modelMap.addAttribute("SagasList", sagas);
+       modelMap.addAttribute("sagas", sagas);
        return "SagasList";
     }
 }
