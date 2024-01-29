@@ -13,7 +13,6 @@
         <module>lab05-core</module>
         <module>lab05-data</module>
         <module>lab05-web</module>
-
     </modules>
 
     <properties>
