@@ -1,5 +1,10 @@
 # Lab 05
 
+## Group
+This group is composed of 2 great minds known as :
+* Adrien Mareel (PHP beast, King of JEE)
+* Hugo Vanderhaegen (C# expert)
+  
 ## Intro
 Several goals for this homework:
 * It is based on the previous practice (code + database)
